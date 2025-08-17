@@ -17,6 +17,10 @@
 
 A **blazing-fast** task management app built with modern React. Features intuitive drag-and-drop sorting, instant edits, and persistent storage.
 
+## 🚀 Live Demo
+
+[View Live on GitHub Pages](https://fizzaxx.github.io/task-management/)
+
 ## ✨ Key Features
 
 | Feature          | Description                                                                 |
